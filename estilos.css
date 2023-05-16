@@ -17,3 +17,6 @@ body{
 #container h1 {
     font-size: 20px;
 }
+ #cabecera  h2{
+    color: blue !important;
+ }
