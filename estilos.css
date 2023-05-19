@@ -1,5 +1,5 @@
 body{
-    color: #ccc !important;
+    color: red !important;
     text-align: center;
     font-family: 'Arial';
     font-size: 16px;
@@ -30,4 +30,11 @@ body{
     font-size: 0.8em;
     padding: 0 0 0 1em;
 
+}
+
+#footer{
+    background: #777;
+    color: white !important;
+    text-align: center !important;
+    padding: 0.5em;
 }
